@@ -1,0 +1,5 @@
+Ecosmob development team collaborating with Northern VoIP and working on the prototype design for the NVL Unified Communication System.
+
+Date commenced: 6th March 2023.
+
+See Design_Northern VoIP - Sheet1.pdf for plan of work using XD Design.
