@@ -24,3 +24,66 @@ In terms of licensing, the NVL UCS will be made available under a commercial lic
 
 In summary, the NVL Unified Communications System is an innovative and comprehensive mobile application that aims to solve many of the problems that currently exist in the communications space. By leveraging the power of XRPL, Xumm, and VoIP technology, the NVL UCS will provide users with a secure, easy-to-use, and unified platform that meets all of their needs.
 
+
+NVL UCS Mobile App Prototype YouTube Video: https://youtu.be/k1rQF3ZgGoM
+Mobile App Module Prototype Details: https://github.com/NorthernVoIP/NVL-UCS/blob/main/Prototype/Mobile%20Softphone%20App_Northern%20VoIP.mp4
+Mobile XD link with prototype: https://xd.adobe.com/view/03c10ea0-d1ea-482a-b4d0-875096c560a0-5692/screen/fffea63f-ad50-436b-93be-28a4872891d1
+
+1. Customer Login
+Here customer will get sign-in Credentials from the Northern VoIP Admin team.
+
+2. Forgot Password
+
+3. Add XUMM Wallet
+XUMM Wallet will be linked, app will redirect the user to XUMM Wallet UI where customer can proceed the steps to add XUMM wallet and XRP/NVL/xNVL.
+
+All the XUMM Wallet related maintenance and activities (Add money, transfer money) will be on XUMM Wallet side, not in Northern VOIP scope.
+
+4. Purchase a Subscription
+Purchase a subscription to use the calling services, the customer can make payment using the XUMM Wallet.
+
+5. Account activation and profile update 
+To use the calling services, customer need to purchase the account for activation.
+
+In case of account deactivation, customer will not able to use the calling and message services of the app.
+
+6. Make calls to XUMM Wallet users (Internal calls/messaging) 
+Customer who have added XUMM Wallet in their mobile app and have a subscription can make calls and message for free to other Xumm Wallet subscribers.
+
+External calls can be made using VoIP to external DIDs with sufficient balance on account.
+
+7. Call logs and Contacts
+
+8. Call Charges details
+According to rate configuration, call charges will be deducted for the outbound external calls.
+
+9. DND (Active/Inactive)
+
+10. SIP account settings
+Prefilled as admin has signed up the customer and shares sign in credentials with them.
+
+Customer can edit the same if required.
+
+11. Messages to XUMM Wallet users 
+Customer can only send a text message to XUMM Wallet users who are using the Northern VoIP App.
+
+
+NVL UCS Admin Portal Protype Video: https://youtu.be/B6RZL5ibwzE
+Mobile App Module Prototype Details: https://github.com/NorthernVoIP/NVL-UCS/blob/main/Prototype/NVL%20UCS%20Web%20Admin%20Portal%20Video.mp4
+Web XD link with Prototype: https://xd.adobe.com/view/642caf05-f0c5-4f39-b537-d77bf350e660-317f
+
+Web Admin Portal Module Details:
+
+1. Login/Signup and Profile Management
+
+2. Dashboard
+
+3. SIP Extension management
+
+4. Subscription management
+
+5. Rate card management
+
+6. Rate plan management
+
+7. Report (Live call report, Call Summary Report, CDR, Subscription report)
