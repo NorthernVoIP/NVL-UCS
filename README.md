@@ -26,7 +26,9 @@ In summary, the NVL Unified Communications System is an innovative and comprehen
 
 
 NVL UCS Mobile App Prototype YouTube Video: https://youtu.be/k1rQF3ZgGoM
+
 Mobile App Module Prototype Details: https://github.com/NorthernVoIP/NVL-UCS/blob/main/Prototype/Mobile%20Softphone%20App_Northern%20VoIP.mp4
+
 Mobile XD link with prototype: https://xd.adobe.com/view/03c10ea0-d1ea-482a-b4d0-875096c560a0-5692/screen/fffea63f-ad50-436b-93be-28a4872891d1
 
 1. Customer Login
@@ -69,7 +71,9 @@ Customer can only send a text message to XUMM Wallet users who are using the Nor
 
 
 NVL UCS Admin Portal Protype Video: https://youtu.be/B6RZL5ibwzE
+
 Mobile App Module Prototype Details: https://github.com/NorthernVoIP/NVL-UCS/blob/main/Prototype/NVL%20UCS%20Web%20Admin%20Portal%20Video.mp4
+
 Web XD link with Prototype: https://xd.adobe.com/view/642caf05-f0c5-4f39-b537-d77bf350e660-317f
 
 Web Admin Portal Module Details:
